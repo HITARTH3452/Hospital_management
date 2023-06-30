@@ -23,7 +23,7 @@ This endpoint allows adding a new doctor to the system.
 
 **Request Body:**
 
-<img width="323" alt="image" src="https://github.com/satyam1459/Hospital_Management/assets/114183531/ebe3084f-fcec-49c3-8229-41263d544a0e">
+
 
 
 - `docName` (string, required): The name of the doctor.
@@ -60,7 +60,7 @@ This endpoint allows adding a new patient to the system.
 
 **Request Body:**
 
-<img width="320" alt="image" src="https://github.com/satyam1459/Hospital_Management/assets/114183531/34f6b576-dacf-4981-b854-3b9a8fcd3715">
+
 
 
 - `name` (string, required): The name of the patient.
@@ -80,18 +80,12 @@ This endpoint allows adding a new patient to the system.
 This endpoint suggests doctors based on the patient's symptom and location.
 
 
-<img width="403" alt="image" src="https://github.com/satyam1459/Hospital_Management/assets/114183531/8166c127-a5c9-4bca-b477-290853ede627">
+
 
 For doctor not available at particular location and doctor not available for symptom or patient not registered having not id
 
 
-<img width="304" alt="image" src="https://github.com/satyam1459/Hospital_Management/assets/114183531/f820006c-12de-45b2-983a-2fab32759a89">
-
-
-<img width="377" alt="image" src="https://github.com/satyam1459/Hospital_Management/assets/114183531/2ad76169-d598-40af-ad34-027e5bd7a5a6">
-
-
-<img width="286" alt="image" src="https://github.com/satyam1459/Hospital_Management/assets/114183531/29a71c4b-107d-44f8-8ec0-669a2a1d2a40">
+<img w
 
 
 
